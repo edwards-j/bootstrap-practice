@@ -1,0 +1,17 @@
+.jumbotron {
+    background: url(img/blue_bird.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 50%;
+    border-radius: 0;
+}
+
+nav ul a {
+    background-color: #266AD2 !important;
+    margin: .5em;
+    border-radius: 5px;
+}
+
+.bg-article {
+    background: linear-gradient(to right, #266AD2, 66%, #3fc9db)
+}
